@@ -18,3 +18,7 @@ white
 
 ### icon
 #4411CA, #9C11CA
+
+
+## logo
+![1/cover.png](1/cover.png)
