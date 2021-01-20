@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## PHPfunc
 
-You can use the [editor on GitHub](https://github.com/phpfunc-com/logo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## font
+        Font in use <a target="_blank" href="https://ia.net/topics/in-search-of-the-perfect-writing-font">iAWriterDuospace-RegularItalic</a> designed by
+        <a target="_blank" href="https://ia.net/">iA</a>
+        and licensed under
+        <a target="_blank" href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=OFL_web">Open Font License.</a>
+          Icon Designed by
+          <a target="_blank" href="https://thenounproject.com/burakkp">Burak Kucukparmaksiz</a>
+          
+## colors
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### background
+white
 
-### Markdown
+### font
+#290975
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phpfunc-com/logo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### icon
+#4411CA, #9C11CA
