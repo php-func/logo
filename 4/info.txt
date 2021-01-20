@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: iAWriterDuospace-RegularItalic
+font link: https://ia.net/topics/in-search-of-the-perfect-writing-font
+font author: iA
+font author site: https://ia.net/
+
+
+icon designer: Burak Kucukparmaksiz
+icon designer link: /burakkp
+        
+
+fontColor: {"gradient-0":"#EEEEEE","gradient-1":"#FFFFFF"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#EEEEEE","gradient-1":"#FFFFFF"}
+
+      
