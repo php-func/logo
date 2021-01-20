@@ -20,5 +20,9 @@ white
 #4411CA, #9C11CA
 
 
-## logo
+## logo 1
 ![1/cover.png](1/cover.png)
+
+
+## logo 2
+![2/cover.png](2/cover.png)
